@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+
+    background: rgb(2, 2, 34);
+    color: #fff;
+    margin-top: 100px;
+    padding: 30px ;
+    
+}
+
+.btn{
+    background: #ff5300 !important;
+    border: #ff5300;
+
+}
+
